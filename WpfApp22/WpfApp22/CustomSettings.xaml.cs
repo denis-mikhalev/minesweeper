@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using System.ComponentModel;
 using System.Text.RegularExpressions;
 
-namespace WpfApp22
+namespace Minesweeper
 {
 
     public partial class CustomSettings : Window, INotifyPropertyChanged

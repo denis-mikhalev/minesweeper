@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WpfApp22
+namespace Minesweeper
 {
     public partial class MainWindow : Window
     {

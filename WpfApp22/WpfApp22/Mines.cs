@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfApp22
+namespace Minesweeper
 {
     class Mines : INotifyPropertyChanged
     {

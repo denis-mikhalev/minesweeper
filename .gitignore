@@ -1,0 +1,31 @@
+## Build outputs
+bin/
+obj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## NuGet
+*.nupkg
+packages/
+!**/packages/build/
+
+## Generated files
+*.g.cs
+*.g.i.cs
+*_Content.g.i.cs
+*_MarkupCompile.i.lref
+*_MarkupCompile.lref
+*.FileListAbsolute.txt
+*.g.resources
+
+## Roslyn cache
+.localhistory/
+
+## OS
+Thumbs.db
+.DS_Store
