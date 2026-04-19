@@ -8,7 +8,9 @@
 
 A classic **Minesweeper** desktop game built with **WPF and C#**. Supports three difficulty presets, a custom game mode, and an auto-expanding flood-fill reveal — all in a clean, native Windows desktop experience.
 
-> 📸 _Add a screenshot or GIF of the game here_
+![Demo](assets/demo.gif)
+
+![Screenshot](assets/screenshot.png)
 
 ---
 
